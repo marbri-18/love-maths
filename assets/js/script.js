@@ -35,6 +35,11 @@ function runGame(gameType){
 }
 
 function checkAnswer(){}
+
+/**
+ * Gets the operands (the numbers) and the operator (plus, minus etc)
+ * directly from the DOM and returns the correct answer.
+ */
 function calculateCorrectAnswer(){}
 function incrementScore() {}
 function incrementWrongAnswer(){}
